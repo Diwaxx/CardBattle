@@ -1,0 +1,53 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+
+UserSettings/
+MemoryCaptures/
+AssetBundles/
+ProjectSettings/ProjectVersion.txt
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Local history files
+.localhistory/
+
+# Custom files (add your own specific ignores here)
+# For example:
+# MyCustomFolder/
+# *.log
